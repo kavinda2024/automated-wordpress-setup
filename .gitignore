@@ -1,0 +1,10 @@
+# Ignore Vagrant machine files
+.vagrant/
+
+# Ignore OS/system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and temp files
+*.log
+*.tmp
